@@ -1,3 +1,9 @@
+```
+git rm -r --cached .
+git add .
+git commit -m "clear git cache"
+```
+
 <h1 align="center">
   Zoomkoding Gatsby Blog
 </h1>
