@@ -2,6 +2,8 @@
 git rm -r --cached .
 git add .
 git commit -m "clear git cache"
+
+왜 자꾸 파일들이 날라갈까?
 ```
 
 <h1 align="center">
