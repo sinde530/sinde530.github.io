@@ -1,13 +1,13 @@
 ---
 emoji: 📌
-title: 리액트 라이프 사이클
+title: PropsComponenet
 date: '2022-04-27 12:24:00'
 author: Crong
 tags: React
-categories: React 라이프사이클
+categories: React
 ---
 
-리액트는 MVC 패턴 중 View에 해당하는 라이브러리다. 그러다 보니 각각의 컴포넌트는 컴포넌트의 수명주기, 라이프 사이클이 존재한다.
+리액트는 MVC 패턴 중 View에 해당하는 라이브러리다. <br> 그러다 보니 각각의 컴포넌트는 컴포넌트의 수명주기, 라이프 사이클이 존재한다.
 <br>
 컴포넌트의 수명은 일반적으로 페이지에서 렌더링 되기 전 준비 과정에서 시작해 페이지에서 사라질 때 끝이난다.
 
