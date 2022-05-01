@@ -1,5 +1,5 @@
 ---
-emoji: 💡
+emoji: 🎐
 title: Window 한/영 Caps-Lock 으로 변경하기
 date: '2022-05-01 16:26:00'
 author: Crong
