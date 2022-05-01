@@ -7,13 +7,13 @@ tags: React
 categories: React 라이프사이클
 ---
 
-리액트는 MVC 패턴 중 View에 해당하는 라이브러리다. 그러다 보니 각각의 컴포넌트는 컴포넌트의 수명주기, 라이프 사이클이 존재한다.
+리액트는 MVC 패턴 중 View에 해당하는 라이브러리다. <br> 그러다 보니 각각의 컴포넌트는 컴포넌트의 수명주기, 라이프 사이클이 존재한다.
 <br>
 컴포넌트의 수명은 일반적으로 페이지에서 렌더링 되기 전 준비 과정에서 시작해 페이지에서 사라질 때 끝이난다.
 
 아래의 이미지는 리액트 라이프 사이클을 나타낸다.
 
-![liftcycle_img1.png](lifycycle_img1.png)
+![liftcycle_img1.png](./lifycycle_img1.png)
 <br>
 
 ## 라이프 사이클의 유형
@@ -151,3 +151,6 @@ const LifyCycle = () => {
 ```toc
 
 ```
+
+<br>
+<br>
