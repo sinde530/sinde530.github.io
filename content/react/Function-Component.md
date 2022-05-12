@@ -7,6 +7,8 @@ tags: React
 categories: React
 ---
 
+## 함수형 컴포넌트의 차이점
+
 ```javascript
 // 아래 function들은 원래 이 파일 내에서만 사용할 수 있음.
 function Something() {}
