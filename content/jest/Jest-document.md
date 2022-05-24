@@ -3,7 +3,7 @@ emoji: 📫
 title: jest 사용해보기
 date: '2022-05-17 14:57:00'
 author: Crong
-tags: Jest React javascript
+tags: Jest React
 categories: Jest React
 ---
 
@@ -47,6 +47,9 @@ toBe : 정확하게 이 값이여야한다.
 it = 3인칭 주어라 볼수있음
 beforeEach = 각각 테스트코드들이 실행하기 전에 실행됨
 afterEach = 함수가 수행이 된다음에 호출이 됨.
+
+<br>
+<br>
 
 ```toc
 

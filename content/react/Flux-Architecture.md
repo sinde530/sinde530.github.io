@@ -1,7 +1,7 @@
 ---
 emoji: 📦
 title: Flux 아키텍쳐란?
-date: '2022-05-24 9:08:00'
+date: '2022-05-24 09:08:00'
 author: Crong
 tags: React
 categories: React
