@@ -3,8 +3,8 @@ emoji: 📫
 title: jest 사용해보기
 date: '2022-05-17 14:57:00'
 author: Crong
-tags: Jest, React, javascript,
-categories: Jest, React,
+tags: Jest React javascript
+categories: Jest React
 ---
 
 ## Testing 이란 무엇인가
