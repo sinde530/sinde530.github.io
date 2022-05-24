@@ -3,8 +3,8 @@ emoji: 📦
 title: Redux란?
 date: '2022-05-24 10:22:00'
 author: Crong
-tags: React, Redux
-categories: React, Redux
+tags: React Redux
+categories: React Redux
 ---
 
 # Redux

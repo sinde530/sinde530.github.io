@@ -3,8 +3,8 @@ emoji: 🍿
 title: 파이어베이스 소셜로그인 사용하기
 date: '2022-05-12 16:57:00'
 author: Crong
-tags: React, FireBase
-categories: React, FireBase
+tags: React FireBase
+categories: React FireBase
 ---
 
 ## 파이어베이스 사용기
