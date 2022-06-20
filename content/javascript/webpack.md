@@ -3,8 +3,8 @@ emoji: 🦭
 title: webpack-dev-server 사용해보기
 date: '2022-06-12 20:21:00'
 author: Crong
-tags: webpack javascript
-categories: webpack javascript
+tags: Webpack Javascript
+categories: Webpack Javascript
 ---
 
 # webpack-dev-server 사용하기
