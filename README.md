@@ -6,6 +6,14 @@ git commit -m "clear git cache"
 왜 자꾸 파일들이 날라갈까?
 ```
 
+## Error Issue
+
+`You must provide the URL of lib/mappings.wasm by calling SourceMapConsumer.initialize({ 'lib/mappings.wasm': ... }) before using SourceMapConsumer`라는 에러 나올때
+
+```
+export NODE_OPTIONS=--no-experimental-fetch
+```
+
 <h1 align="center">
   Zoomkoding Gatsby Blog
 </h1>
