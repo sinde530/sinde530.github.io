@@ -2,6 +2,7 @@
 barnch checkout main => gh-page
 git merge main
 npm run build
+npm run deploy
 
 git rm -r --cached .
 git add .
