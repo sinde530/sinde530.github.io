@@ -1,4 +1,8 @@
 ```
+barnch checkout main => gh-page
+git merge main
+npm run build
+
 git rm -r --cached .
 git add .
 git commit -m "clear git cache"
